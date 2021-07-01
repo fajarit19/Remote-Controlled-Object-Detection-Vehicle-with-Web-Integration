@@ -1,0 +1,2 @@
+# Remote-Controlled-Object-Detection-Vehicle-with-Web-Integration
+The  aim of this project is to explore different methods for helping computers interpret the  real world visually, investigate solutions to those methods offered by the open-sourced  computer vision library, OpenCV, and implement some of these in a Raspberry Pi based  application for detecting and keeping track of objects. The main focus rests on the  practical side of the project.
