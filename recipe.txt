@@ -1,0 +1,9 @@
+dataset: 
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+
+flask video streaming:
+https://github.com/jiankaiwang/Flask_Video_Streaming_for_Object_Detection
+
+result ok..
+
+https://fajarit19.github.io/
